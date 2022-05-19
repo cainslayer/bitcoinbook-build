@@ -833,18 +833,18 @@ Bitcoin's block interval of 10 minutes is a design compromise between fast confi
 
 The following list shows the total hashing power of the Bitcoin network in terahashes/sec (TH/sec), since its inception in 2009 (source: Blockchain.com):
 
-2009:: 0.000004 – 0.00001 TH/sec (2.40&#x00D7; growth)
-2010:: 0.00001 – 0.14 TH/sec (14,247&#x00D7; growth)
-2011:: 0.14 – 9.49 TH/sec (63.92&#x00D7; growth)
-2012:: 9.49 – 22 TH/sec (2.32&#x00D7; growth)
-2013:: 22.04 – 15,942 TH/sec (723.32&#x00D7; growth)
-2014:: 15,942 – 306,333 TH/sec (19.21&#x00D7; growth)
-2015:: 306,333 – 881,232 TH/sec (2.87&#x00D7; growth)
-2016:: 881,232 – 2,807,540 TH/sec (3.18&#x00D7; growth)
-2017:: 2,807,540 – 18,206,558 TH/sec (6.48&#x00D7; growth)
-2018:: 18,206,558 – 41,801,528 TH/sec (2.29&#x00D7; growth)
-2019:: 41,801,528 – 109,757,127 TH/sec (2.62&#x00D7; growth)
-2020:: 109,757,127 – 149,064,869 TH/sec (1.35&#x00D7; growth)
+2009:: 0.000004 – 0.00001 TH/sec (2.40x growth)
+2010:: 0.00001 – 0.14 TH/sec (14,247x growth)
+2011:: 0.14 – 9.49 TH/sec (63.92x growth)
+2012:: 9.49 – 22 TH/sec (2.32x growth)
+2013:: 22.04 – 15,942 TH/sec (723.32x growth)
+2014:: 15,942 – 306,333 TH/sec (19.21x growth)
+2015:: 306,333 – 881,232 TH/sec (2.87x growth)
+2016:: 881,232 – 2,807,540 TH/sec (3.18x growth)
+2017:: 2,807,540 – 18,206,558 TH/sec (6.48x growth)
+2018:: 18,206,558 – 41,801,528 TH/sec (2.29x growth)
+2019:: 41,801,528 – 109,757,127 TH/sec (2.62x growth)
+2020:: 109,757,127 – 149,064,869 TH/sec (1.35x growth)
 
 In the chart in <<network_hashing_power>>, we can see that Bitcoin network's hashing power increased over the past two years. As you can see, the competition between miners and the growth of bitcoin has resulted in an exponential increase in the hashing power (total hashes per second across the network).
 
